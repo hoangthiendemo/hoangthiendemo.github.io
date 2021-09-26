@@ -19,3 +19,21 @@
 #myBtn:hover {
   background-color: #555; /* Add a dark-grey background on hover */
 }
+
+.btn-fb {
+    color: #fff;
+    background-color: #6c6ce4;
+    border-color: #ffc800;
+}
+
+.text-right {
+  text-align: justify;
+}
+
+.row-image {
+  padding-bottom: 7px;
+}
+
+.timeline-image a {
+  text-decoration: none;
+}
